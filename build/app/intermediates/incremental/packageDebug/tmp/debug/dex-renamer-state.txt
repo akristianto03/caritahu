@@ -1,0 +1,4 @@
+#Sun Nov 07 00:12:39 ICT 2021
+base.0=E\:\\Uciputra\\Semester 5\\TEPD\\Tahu\\kartutahu2\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
